@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hieu Hoang"
+  name             : "Thien Hieu Hoang"
   avatar           : "1me1.png"
   bio              : "Research Assistant at CTARG (HUST) and CECS (VinUni)"
   location         : "Hanoi, Vietnam"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
