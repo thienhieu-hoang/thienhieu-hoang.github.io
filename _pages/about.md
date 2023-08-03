@@ -10,6 +10,6 @@ redirect_from:
 
 Thien Hieu Hoang is from Hanoi, Viet Nam. 
 He received the B.S. degree from the School of Electronics and Telecommunication at Hanoi University of Science and Technology, Viet Nam, in 2021. 
-He was a Research Assistant (RA) in VinUniversity from 2021 to 2022.
+He was a Research Assistant (RA) in College of Engineering & Computer Science (CECS) of VinUniversity from October 2021 to July 2022.
 He is currently a Master's student at the École de Technologie Supérieure (ÉTS) in Montréal, Québec, Canada.
 His research interests include resource allocation in wireless communication, optimization, and Mobile Edge Computing (MEC).
