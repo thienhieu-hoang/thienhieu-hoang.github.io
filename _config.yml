@@ -83,10 +83,10 @@ analytics:
 author:
   name             : "Thien Hieu Hoang"
   avatar           : "1me2.jpg"
-  bio              : "Research Assistant at CTARG (HUST), CECS (VinUni), and ReMI (ETS)"
+  bio              : "Research Assistant at ReMI (ETS)"
   location         : "Montréal, Québec"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            : "thien-hieu.hoang.1@ens.etsmtl.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
